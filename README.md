@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/snow_shimizu"><img src="https://api.daily.dev/devcards/v2/85uCAQ5KyJgNRKn7IWI9q.png?type=default&r=kj6" width="356" alt="Snow's Dev Card"/></a>
-
 <!--
 **snow-t-m-yang/snow-t-m-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
